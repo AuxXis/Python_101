@@ -12,7 +12,8 @@ The topics are organized through units and inside the Units you can find **_bole
 
 Find hereinafter every section directly linked with the code:
 
-1. [**_UNIT_1_**](https://github.com/AuxXis/Python_101/tree/master/Tema_1)
+## 1. [**_UNIT_1_**](https://github.com/AuxXis/Python_101/tree/master/Tema_1)
+
   * [boletin_1](https://github.com/AuxXis/Python_101/tree/master/Tema_1/boletin_1)
     (_logical expressions_)
   * [boletin_2](https://github.com/AuxXis/Python_101/tree/master/Tema_1/boletin_2)
@@ -22,12 +23,13 @@ Find hereinafter every section directly linked with the code:
     (_Exercises full in English_)
         
   
-  2. [**_UNIT_2_**](https://github.com/AuxXis/Python_101/tree/master/Tema_102)
-     * [boletin_1](https://github.com/AuxXis/Python_101/tree/master/Tema_102/boletin_01)
-      (_modular programming I_)
+ ## 2. [**_UNIT_2_**](https://github.com/AuxXis/Python_101/tree/master/Tema_102)
+ 
+  * [boletin_1](https://github.com/AuxXis/Python_101/tree/master/Tema_102/boletin_01)
+  (_modular programming I_)
       
-          *[boletin_1, exercise 7](https://github.com/AuxXis/Python_101/blob/master/Tema_102/boletin_01/ejercicio_7.py)
-           (_Showing whether two dominos pieces fit without using tuples_)
+     *[boletin_1, exercise 7](https://github.com/AuxXis/Python_101/blob/master/Tema_102/boletin_01/ejercicio_7.py)
+     (_Showing whether two dominos pieces fit without using tuples_)
       
       
 For now on, I'll keep this repository updated and I'll try to keep them translated into English!
