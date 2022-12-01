@@ -23,15 +23,10 @@ print(list2)
 
 def intersect(list1,list2):
     intersect = []
-    if len(list1)>len(list2):
-        for i in range (len(list1)):
-            if list1[i]==list2[i]:
-                intersect.append(list1[i])
-    
-    else:
-        for i in range (len(list2)):
-            if list1[i]==list2[i]:
-                intersect.append(list2[i])
+    for i in range (len(list1)):
+        if list1[i] in list2:
+            intersect.append(list1[i])
+    return intersect
 
 
 print (intersect(list1,list2))

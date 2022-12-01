@@ -21,8 +21,8 @@ def longitud(cadena1, cadena2):
                 list1.append(cadena1[i])
             if cadena2[i] not in list2:
                 list2.append(cadena2[i])
-        if len(list1)>len(list2):
-            cadena1=cadena2                                    
+        if len(list1) > len(list2):
+            cadena1 = cadena2                                    
                 
     return cadena1
 
